@@ -1,0 +1,6 @@
+{
+    "name": "root/ip",
+    "require": {
+        "ua-parser/uap-php": "^3.9"
+    }
+}
